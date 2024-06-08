@@ -9,9 +9,9 @@ Proyek ini bertujuan untuk mengeksplorasi apakah unggahan publik seseorang dapat
 1. Persiapan dan Pembersihan Data:
 Dataset yang digunakan tidak memiliki nilai yang hilang tetapi memerlukan beberapa pengorganisasian ulang karena distribusi postingan yang tidak merata untuk setiap tipe kepribadian. Saya melakukan pembersihan data untuk memastikan bahwa setiap individu diwakili dengan baik dalam analisis.
 2. K-Means Clustering:
-  - Proses Pengelompokan:
-  Saya menerapkan algoritma K-Means untuk mengelompokkan data berdasarkan fitur-fitur yang diekstraksi dari postingan publik. Data setiap individu dipecah dan digabungkan kembali berdasarkan tipe kepribadian mereka.
-  - Visualisasi Hasil:
+   - Proses Pengelompokan:
+     Saya menerapkan algoritma K-Means untuk mengelompokkan data berdasarkan fitur-fitur yang diekstraksi dari postingan publik. Data setiap individu dipecah dan digabungkan kembali berdasarkan tipe kepribadian mereka.
+   - Visualisasi Hasil:
   Menggunakan berbagai teknik visualisasi, seperti grafik sebar dan grafik bar, untuk memahami distribusi dan karakteristik masing-masing klaster yang terbentuk.
 
 Hasil dan Pembahasan:
